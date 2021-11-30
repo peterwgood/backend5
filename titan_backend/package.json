@@ -1,0 +1,11 @@
+{
+  "name": "Peter",
+  "version": "1.0.0",
+  "description": "My first Json File",
+  "main": "server.js",
+  "author": "Peter Good",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
